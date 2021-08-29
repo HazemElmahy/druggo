@@ -25,7 +25,7 @@ SECRET_KEY = 'mp+udc3a$1x)+8a&z23e+6w%x$tv*cnq#+_m2g2#x0iejj%kk5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://ancient-spire-84221.herokuapp.com']
 
 
 # Application definition
